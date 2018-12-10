@@ -7,7 +7,7 @@
             "label": "compile",
             "type": "shell",
             "options": {
-                "cwd": "${workspaceFolder}"
+                "cwd": "${workspaceFolder}/build"
             },
             "command": "make my_exe",
             "group": {

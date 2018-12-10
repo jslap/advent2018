@@ -5,19 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "internalConsoleOptions": "openOnSessionStart",
             "name": "(lldb) Launch",
             "type": "cppdbg",
             "preLaunchTask": "compile",
             "request": "launch",
-            "program": "${workspaceFolder}/my_exe",
+            "program": "${workspaceFolder}/build/my_exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [],
             "externalConsole": false,
             "MIMode": "lldb"
-            // ,
-            // "miDebuggerPath": "/usr/bin/lldb"
             
         }
     ]
