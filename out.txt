@@ -1,0 +1,683 @@
+After 0 round:
+#######   
+#.G...#   G(200), 
+#...EG#   E(200), G(200), 
+#.#.#G#   G(200), 
+#..G#E#   G(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAfter 1 round:
+#######   
+#..G..#   G(200), 
+#...EG#   E(197), G(197), 
+#.#G#G#   G(200), G(197), 
+#...#E#   E(197), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 2 round:
+#######   
+#...G.#   G(197), 
+#..GEG#   G(200), E(188), G(197), 
+#.#.#G#   G(194), 
+#...#E#   E(194), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 3 round:
+#######   
+#...G.#   G(194), 
+#..GEG#   G(200), E(179), G(197), 
+#.#.#G#   G(191), 
+#...#E#   E(191), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 4 round:
+#######   
+#...G.#   G(191), 
+#..GEG#   G(200), E(170), G(197), 
+#.#.#G#   G(188), 
+#...#E#   E(188), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 5 round:
+#######   
+#...G.#   G(188), 
+#..GEG#   G(200), E(161), G(197), 
+#.#.#G#   G(185), 
+#...#E#   E(185), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 6 round:
+#######   
+#...G.#   G(185), 
+#..GEG#   G(200), E(152), G(197), 
+#.#.#G#   G(182), 
+#...#E#   E(182), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 7 round:
+#######   
+#...G.#   G(182), 
+#..GEG#   G(200), E(143), G(197), 
+#.#.#G#   G(179), 
+#...#E#   E(179), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 8 round:
+#######   
+#...G.#   G(179), 
+#..GEG#   G(200), E(134), G(197), 
+#.#.#G#   G(176), 
+#...#E#   E(176), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 9 round:
+#######   
+#...G.#   G(176), 
+#..GEG#   G(200), E(125), G(197), 
+#.#.#G#   G(173), 
+#...#E#   E(173), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 10 round:
+#######   
+#...G.#   G(173), 
+#..GEG#   G(200), E(116), G(197), 
+#.#.#G#   G(170), 
+#...#E#   E(170), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 11 round:
+#######   
+#...G.#   G(170), 
+#..GEG#   G(200), E(107), G(197), 
+#.#.#G#   G(167), 
+#...#E#   E(167), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 12 round:
+#######   
+#...G.#   G(167), 
+#..GEG#   G(200), E(98), G(197), 
+#.#.#G#   G(164), 
+#...#E#   E(164), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 13 round:
+#######   
+#...G.#   G(164), 
+#..GEG#   G(200), E(89), G(197), 
+#.#.#G#   G(161), 
+#...#E#   E(161), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 14 round:
+#######   
+#...G.#   G(161), 
+#..GEG#   G(200), E(80), G(197), 
+#.#.#G#   G(158), 
+#...#E#   E(158), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 15 round:
+#######   
+#...G.#   G(158), 
+#..GEG#   G(200), E(71), G(197), 
+#.#.#G#   G(155), 
+#...#E#   E(155), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 16 round:
+#######   
+#...G.#   G(155), 
+#..GEG#   G(200), E(62), G(197), 
+#.#.#G#   G(152), 
+#...#E#   E(152), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 17 round:
+#######   
+#...G.#   G(152), 
+#..GEG#   G(200), E(53), G(197), 
+#.#.#G#   G(149), 
+#...#E#   E(149), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 18 round:
+#######   
+#...G.#   G(149), 
+#..GEG#   G(200), E(44), G(197), 
+#.#.#G#   G(146), 
+#...#E#   E(146), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 19 round:
+#######   
+#...G.#   G(146), 
+#..GEG#   G(200), E(35), G(197), 
+#.#.#G#   G(143), 
+#...#E#   E(143), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 20 round:
+#######   
+#...G.#   G(143), 
+#..GEG#   G(200), E(26), G(197), 
+#.#.#G#   G(140), 
+#...#E#   E(140), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 21 round:
+#######   
+#...G.#   G(140), 
+#..GEG#   G(200), E(17), G(197), 
+#.#.#G#   G(137), 
+#...#E#   E(137), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 22 round:
+#######   
+#...G.#   G(137), 
+#..GEG#   G(200), E(8), G(197), 
+#.#.#G#   G(134), 
+#...#E#   E(134), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 23 round:
+#######   
+#...G.#   G(134), 
+#..G.G#   G(200), G(197), 
+#.#.#G#   G(131), 
+#...#E#   E(131), 
+#.....#   
+#######   
+AttackAttackAfter 24 round:
+#######   
+#..G..#   G(134), 
+#...G.#   G(197), 
+#.#G#G#   G(200), G(128), 
+#...#E#   E(128), 
+#.....#   
+#######   
+AttackAttackAfter 25 round:
+#######   
+#.G...#   G(134), 
+#..G..#   G(197), 
+#.#.#G#   G(125), 
+#..G#E#   G(200), E(125), 
+#.....#   
+#######   
+AttackAttackAfter 26 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(122), 
+#...#E#   E(122), 
+#..G..#   G(200), 
+#######   
+AttackAttackAfter 27 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(119), 
+#...#E#   E(119), 
+#...G.#   G(200), 
+#######   
+AttackAttackAttackAfter 28 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(116), 
+#...#E#   E(113), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 29 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(113), 
+#...#E#   E(107), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 30 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(110), 
+#...#E#   E(101), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 31 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(107), 
+#...#E#   E(95), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 32 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(104), 
+#...#E#   E(89), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 33 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(101), 
+#...#E#   E(83), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 34 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(98), 
+#...#E#   E(77), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 35 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(95), 
+#...#E#   E(71), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 36 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(92), 
+#...#E#   E(65), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 37 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(89), 
+#...#E#   E(59), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 38 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(86), 
+#...#E#   E(53), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 39 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(83), 
+#...#E#   E(47), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 40 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(80), 
+#...#E#   E(41), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 41 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(77), 
+#...#E#   E(35), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 42 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(74), 
+#...#E#   E(29), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 43 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(71), 
+#...#E#   E(23), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 44 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(68), 
+#...#E#   E(17), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 45 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(65), 
+#...#E#   E(11), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 46 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(62), 
+#...#E#   E(5), 
+#....G#   G(200), 
+#######   
+AttackAttackAttackAfter 47 round:
+#######   
+#G....#   G(134), 
+#.G...#   G(197), 
+#.#.#G#   G(59), 
+#...#.#   
+#....G#   G(200), 
+#######   
+Test OK
+After 0 round:
+#######   
+#G..#E#   G(200), E(200), 
+#E#E.E#   E(200), E(200), E(200), 
+#G.##.#   G(200), 
+#...#E#   E(200), 
+#...E.#   E(200), 
+#######   
+AttackAttackAttackAfter 1 round:
+#######   
+#G.E#E#   G(197), E(200), E(200), 
+#E#..E#   E(194), E(200), 
+#G.##.#   G(200), 
+#...#E#   E(200), 
+#..E..#   E(200), 
+#######   
+AttackAttackAttackAttackAfter 2 round:
+#######   
+#GE.#E#   G(191), E(200), E(200), 
+#E#..E#   E(188), E(200), 
+#G.##.#   G(200), 
+#..E#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAfter 3 round:
+#######   
+#GE.#E#   G(185), E(197), E(200), 
+#E#..E#   E(185), E(200), 
+#G.##.#   G(200), 
+#.E.#.#   E(200), 
+#....E#   E(200), 
+#######   
+AttackAttackAttackAttackAttackAfter 4 round:
+#######   
+#GE.#E#   G(179), E(194), E(200), 
+#E#..E#   E(182), E(200), 
+#GE##.#   G(197), E(200), 
+#...#.#   
+#...E.#   E(200), 
+#######   
+AttackAttackAttackAttackAttackAfter 5 round:
+#######   
+#GE.#E#   G(173), E(191), E(200), 
+#E#..E#   E(179), E(200), 
+#GE##.#   G(194), E(200), 
+#...#.#   
+#..E..#   E(200), 
+#######   
+AttackAttackAttackAttackAttackAfter 6 round:
+#######   
+#GE.#E#   G(167), E(188), E(200), 
+#E#..E#   E(176), E(200), 
+#GE##.#   G(191), E(200), 
+#..E#.#   E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAfter 7 round:
+#######   
+#GE.#E#   G(161), E(185), E(200), 
+#E#...#   E(173), 
+#GE##E#   G(188), E(200), E(200), 
+#.E.#.#   E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 8 round:
+#######   
+#GE.#E#   G(155), E(182), E(200), 
+#E#...#   E(170), 
+#GE##.#   G(182), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 9 round:
+#######   
+#GE.#E#   G(149), E(179), E(200), 
+#E#...#   E(167), 
+#GE##.#   G(176), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 10 round:
+#######   
+#GE.#E#   G(143), E(176), E(200), 
+#E#...#   E(164), 
+#GE##.#   G(170), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 11 round:
+#######   
+#GE.#E#   G(137), E(173), E(200), 
+#E#...#   E(161), 
+#GE##.#   G(164), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 12 round:
+#######   
+#GE.#E#   G(131), E(170), E(200), 
+#E#...#   E(158), 
+#GE##.#   G(158), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 13 round:
+#######   
+#GE.#E#   G(125), E(167), E(200), 
+#E#...#   E(155), 
+#GE##.#   G(152), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 14 round:
+#######   
+#GE.#E#   G(119), E(164), E(200), 
+#E#...#   E(152), 
+#GE##.#   G(146), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 15 round:
+#######   
+#GE.#E#   G(113), E(161), E(200), 
+#E#...#   E(149), 
+#GE##.#   G(140), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 16 round:
+#######   
+#GE.#E#   G(107), E(158), E(200), 
+#E#...#   E(146), 
+#GE##.#   G(134), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 17 round:
+#######   
+#GE.#E#   G(101), E(155), E(200), 
+#E#...#   E(143), 
+#GE##.#   G(128), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 18 round:
+#######   
+#GE.#E#   G(95), E(152), E(200), 
+#E#...#   E(140), 
+#GE##.#   G(122), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 19 round:
+#######   
+#GE.#E#   G(89), E(149), E(200), 
+#E#...#   E(137), 
+#GE##.#   G(116), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 20 round:
+#######   
+#GE.#E#   G(83), E(146), E(200), 
+#E#...#   E(134), 
+#GE##.#   G(110), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 21 round:
+#######   
+#GE.#E#   G(77), E(143), E(200), 
+#E#...#   E(131), 
+#GE##.#   G(104), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 22 round:
+#######   
+#GE.#E#   G(71), E(140), E(200), 
+#E#...#   E(128), 
+#GE##.#   G(98), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 23 round:
+#######   
+#GE.#E#   G(65), E(137), E(200), 
+#E#...#   E(125), 
+#GE##.#   G(92), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 24 round:
+#######   
+#GE.#E#   G(59), E(134), E(200), 
+#E#...#   E(122), 
+#GE##.#   G(86), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 25 round:
+#######   
+#GE.#E#   G(53), E(131), E(200), 
+#E#...#   E(119), 
+#GE##.#   G(80), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 26 round:
+#######   
+#GE.#E#   G(47), E(128), E(200), 
+#E#...#   E(116), 
+#GE##.#   G(74), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 27 round:
+#######   
+#GE.#E#   G(41), E(125), E(200), 
+#E#...#   E(113), 
+#GE##.#   G(68), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 28 round:
+#######   
+#GE.#E#   G(35), E(122), E(200), 
+#E#...#   E(110), 
+#GE##.#   G(62), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 29 round:
+#######   
+#GE.#E#   G(29), E(119), E(200), 
+#E#...#   E(107), 
+#GE##.#   G(56), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 30 round:
+#######   
+#GE.#E#   G(23), E(116), E(200), 
+#E#...#   E(104), 
+#GE##.#   G(50), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 31 round:
+#######   
+#GE.#E#   G(17), E(113), E(200), 
+#E#...#   E(101), 
+#GE##.#   G(44), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 32 round:
+#######   
+#GE.#E#   G(11), E(110), E(200), 
+#E#...#   E(98), 
+#GE##.#   G(38), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 33 round:
+#######   
+#GE.#E#   G(5), E(107), E(200), 
+#E#...#   E(95), 
+#GE##.#   G(32), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAttackAttackAfter 34 round:
+#######   
+#.E.#E#   E(104), E(200), 
+#E#...#   E(92), 
+#GE##.#   G(26), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAfter 35 round:
+#######   
+#.E.#E#   E(104), E(200), 
+#E#...#   E(89), 
+#GE##.#   G(17), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackAfter 36 round:
+#######   
+#.E.#E#   E(104), E(200), 
+#E#...#   E(86), 
+#GE##.#   G(8), E(200), 
+#E..#E#   E(200), E(200), 
+#.....#   
+#######   
+AttackAttackAttackAttackTest Fail: got 35532 should be 27730
+Done
